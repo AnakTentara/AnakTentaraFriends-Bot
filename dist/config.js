@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const discord_js_1 = require("discord.js");
 exports.default = {
     prefix: '!',
-    token: 'MTAwMTg2Mjg2NjU3MzQ1OTQ3OA.Goarut.5-zbt8HZcl4e8U6McUJL4CSXw0tiNgfI-0_GbU',
+    token: 'MTAwMTg2Mjg2NjU3MzQ1OTQ3OA.GqLcP0.eEzUMmi_CA5ATjBKT3dCw0Egz40uIqDBseR5fk',
     intents: [
         discord_js_1.Intents.FLAGS.GUILDS,
         discord_js_1.Intents.FLAGS.GUILD_MESSAGES

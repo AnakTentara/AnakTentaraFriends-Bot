@@ -19,7 +19,6 @@ client.on('ready', () => {
     console.log(`Logged in as: ${client.user?.tag}`);
 });
 client.on('messageCreate', async (message) => {
-	cconsole.log(message);
     if (message.author.bot)
         return;
     if (message.content.startsWith(prefix)) {
